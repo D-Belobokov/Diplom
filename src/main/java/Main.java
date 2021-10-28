@@ -3,7 +3,7 @@ import WeekDay.WeekDay;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 import java.util.HashMap;
 import java.util.Map;
 
